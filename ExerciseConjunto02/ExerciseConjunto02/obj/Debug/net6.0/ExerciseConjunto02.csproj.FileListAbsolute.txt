@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\bin\Debug\net6.0\ExerciseConjunto02.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\bin\Debug\net6.0\ExerciseConjunto02.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\bin\Debug\net6.0\ExerciseConjunto02.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\bin\Debug\net6.0\ExerciseConjunto02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\bin\Debug\net6.0\ExerciseConjunto02.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\refint\ExerciseConjunto02.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ExerciseConjunto02.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseConjunto02\ExerciseConjunto02\obj\Debug\net6.0\ref\ExerciseConjunto02.dll

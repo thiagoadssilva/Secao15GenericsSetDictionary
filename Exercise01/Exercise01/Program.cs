@@ -1,6 +1,6 @@
 ﻿using Exercise01.Entities;
 
-PrintService printService = new PrintService();
+PrintService<int> printService = new PrintService<int>();
 
 Console.Write("How many values? ");
 int n = int.Parse(Console.ReadLine());
