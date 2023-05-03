@@ -1,0 +1,15 @@
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.exe
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.deps.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.runtimeconfig.json
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\bin\Debug\net6.0\ExerciseDictionary.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.csproj.AssemblyReference.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.AssemblyInfoInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.AssemblyInfo.cs
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.csproj.CoreCompileInputs.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\refint\ExerciseDictionary.dll
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.pdb
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ExerciseDictionary.genruntimeconfig.cache
+C:\Users\thiag\OneDrive\Documentos\ProjetosGit\Secao15GenericsSetDictionary\ExerciseDictionary\ExerciseDictionary\obj\Debug\net6.0\ref\ExerciseDictionary.dll
